@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,precision_macro,recall_macro,test_loss,train_loss,epochs_trained,training_time_min,total_params,architecture
+swin_base,0.9771,0.9771235045108403,0.9772315442196347,0.9770999999999999,0.09099894762039185,0.6076056557848021,9,101.48566825787226,86753474,Swin Transformer with Shifted Windows

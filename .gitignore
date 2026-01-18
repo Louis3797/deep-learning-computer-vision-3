@@ -1,0 +1,9 @@
+checkpoint-[0-9]*
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+config (1).json
+
+.DS_Store

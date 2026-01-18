@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,precision_macro,recall_macro,test_loss,train_loss,epochs_trained,training_time_min,total_params,architecture
+deit_base,0.9711,0.9710579951369918,0.9712198023365275,0.9710999999999999,0.10381007939577103,0.6251424574094138,8,56.1964684287707,85806346,Data-efficient Image Transformer

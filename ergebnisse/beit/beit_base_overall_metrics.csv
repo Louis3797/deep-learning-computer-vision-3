@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,precision_macro,recall_macro,test_loss,train_loss,epochs_trained,training_time_min,total_params,architecture
+beit_base,0.9723,0.9722996005210097,0.972720289631608,0.9722999999999999,0.11011092364788055,0.757190437674624,7,55.265684115886685,85769674,BERT-style pretraining for images
